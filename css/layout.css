@@ -40,6 +40,10 @@
   margin: 5px 0px 10px 10px;
 }
 
+#deals {
+  column-count: 3;
+}
+
 /*#deal-1, #deal-2, #deal-3 {*/
 /*  float: left;*/
 /*  width: 31.5%;*/
