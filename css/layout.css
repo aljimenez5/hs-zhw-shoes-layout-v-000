@@ -58,7 +58,7 @@
 }
 
 #index {
-  column: 3;
+  column-count: 3;
 }
 
 
